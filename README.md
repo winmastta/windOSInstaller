@@ -1,6 +1,5 @@
-# windOS Installer
 
-## 📋 Overview
+# <img width="45" height="45" alt="windOS Installer icon" src="https://github.com/user-attachments/assets/4531900c-7441-4b62-a477-780d75108b8c" /> windOS Installer
 
 **windOS Installer** is a utility for **downloading windOS**, **burning it** to a USB drive, and **creating your own version**.
 
