@@ -3,6 +3,9 @@
 
 **windOS Installer** is a utility for **downloading windOS**, **burning it** to a USB drive, **creating your own version**, **dualbooting your main Windows OS with windOS** and **patching your main Windows OS**
 
+> [!Note]
+> This program is in Alpha state of development, the approximate release date for the first release is from mid-February to mid-March
+
 ## 🛠️ Features
 
 *   [x] **Easy Write:** Write it on USB Drive by selecting already downloaded ISO.
